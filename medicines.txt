@@ -1,0 +1,7 @@
+ad. amn		DELIVERED
+ad. amv		DELIVERED
+ad. ast		DELIVERED
+ad. arr		PENDING	
+ad. awa		PENDING
+ad. awr		PENDING
+ad. awt		DELIVERED

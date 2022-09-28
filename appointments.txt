@@ -1,0 +1,7 @@
+Dr. Shreya  Tuesday    9.00  AM
+Dr. Ashish  Wednesday  6.00  PM
+Dr. Rahul   Thursday   10.00 AM
+Dr. Aakash  Friday     11.45 AM
+Dr. Sneha   Saturday   3.30  PM
+Dr. Rohit   Sunday     12.45 PM
+Dr. Khusi   Monday     1.00  PM
